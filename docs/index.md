@@ -47,7 +47,7 @@ I am an expert in QGIS, Google Earth Engine, Python and GDAL with domain experti
 ---
 
 [View My Projects :material-arrow-right:](projects/index.md){ .md-button .md-button--primary }
-[Download CV :material-download:](assets/[YOUR-NAME]-CV.pdf){ .md-button }
+[Download CV :material-download:](assets/ujaval-CV.pdf){ .md-button }
 
 
 ---
