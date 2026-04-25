@@ -21,9 +21,9 @@ Feel free to reach me through any of the channels below.
 
 | | |
 |---|---|
-| :material-email: **Email** | [your-email@example.com](mailto:ujaval@spatialthoughts.com) |
-| :fontawesome-brands-github: **GitHub** | [github.com/[YOUR-GITHUB-USERNAME]](https://github.com/spatialthoughts) |
-| :fontawesome-brands-linkedin: **LinkedIn** | [linkedin.com/in/[YOUR-LINKEDIN-USERNAME]](https://linkedin.com/in/spatialthoughts) |
+| :material-email: **Email** | [ujaval@spatialthoughts.com](mailto:ujaval@spatialthoughts.com) |
+| :fontawesome-brands-github: **GitHub** | [github.com/spatialthoughts](https://github.com/spatialthoughts) |
+| :fontawesome-brands-linkedin: **LinkedIn** | [linkedin.com/in/spatialthoughts]](https://linkedin.com/in/spatialthoughts) |
 
 ---
 
