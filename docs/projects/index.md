@@ -27,4 +27,17 @@ A set of 5 tutorials developed in collaboration with the Google DeepMind team fo
 </div>
 
 
+<div class="project-card" markdown>
+![](../assets/images/placeholder-notebook.png)
+
+**[Sample Notebook](sample-notebook.ipynb)**
+
+[YOUR PROJECT DESCRIPTION — one or two sentences: what you did, what data you used,
+and what you found or built.]
+
+`Python` `pandas` `Folium`
+
+[View Project →](sample-notebook.ipynb){ .md-button }
+</div>
+
 </div>

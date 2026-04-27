@@ -27,13 +27,11 @@ A set of 5 tutorials developed in collaboration with the Google DeepMind team fo
 
 **Data Sources**
 
-- [Google Satellite Embedding Dataset (GOOGLE/SATELLITE_EMBEDDING/V1/ANNUAL)](https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_SATELLITE_EMBEDDING_V1_ANNUAL) — annual 64-band embedding images from 2017 onward, derived from Sentinel-1, Sentinel-2, and Landsat time-series
+- [Google Satellite Embedding Dataset](https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_SATELLITE_EMBEDDING_V1_ANNUAL) — annual 64-band embedding images from 2017 onward, derived from Sentinel-1, Sentinel-2, and Landsat time-series
 
 **Tools Used**
 
-| Tool | Purpose |
-|------|---------|
-| Google Earth Engine (JavaScript API) | Dataset access, processing, and visualization |
+* Google Earth Engine (JavaScript API)
 
 ---
 
@@ -48,7 +46,7 @@ A set of 5 tutorials developed in collaboration with the Google DeepMind team fo
 
 ## Geo for Good Summit 2025
 
-Presented this work as an invited speaker at Google's Annual Geo for Good Summit in Singapore.
+Presented this work at Google's Annual Geo for Good Summit in Singapore.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6d4wXNEr4GY" title="Google Geo for Good Summit - AEF Tutorials" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
