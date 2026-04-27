@@ -11,7 +11,6 @@ site_url: "https://spatialthoughts.github.io/"
 
 theme:
   name: material
-  custom_dir: overrides          # Do not remove — required for optional Giscus comments
   # Icon used as both the site logo (header) and browser favicon.
   # Browse icons at https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/
   # and replace "material/earth" with any "material/..." icon name you prefer.
