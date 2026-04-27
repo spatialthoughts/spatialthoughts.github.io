@@ -16,8 +16,7 @@ A selection of my geospatial projects. Click any card to see the full write-up.
 <div class="project-card" markdown>
 ![](../assets/images/project1-cover.png)
 
-**[Google AlphaEarth Embeddings (AEF) Tutorials
-](satellite-embedding-project.md)**
+**[Google AlphaEarth Embeddings (AEF) Tutorials](satellite-embedding-project.md)**
 
 A set of 5 tutorials developed in collaboration with the Google DeepMind team for the official launch of Google's Satellite Embedding dataset on Google Earth Engine. The tutorials cover the full spectrum of downstream tasks — from unsupervised clustering to similarity search.
 
