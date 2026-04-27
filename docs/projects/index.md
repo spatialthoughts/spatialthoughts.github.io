@@ -14,29 +14,17 @@ A selection of my geospatial projects. Click any card to see the full write-up.
 <div class="grid" markdown>
 
 <div class="project-card" markdown>
-![](../assets/images/placeholder-project.png)
+![](../assets/images/project1-cover.png)
 
-**[Sample Project](sample-project.md)**
+**[Google AlphaEarth Embeddings (AEF) Tutorials
+](satellite-embedding-project.md)**
 
-[YOUR PROJECT DESCRIPTION — one or two sentences: what you did, what data you used,
-and what you found or built.]
+A set of 5 tutorials developed in collaboration with the Google DeepMind team for the official launch of Google's Satellite Embedding dataset on Google Earth Engine. The tutorials cover the full spectrum of downstream tasks — from unsupervised clustering to similarity search.
 
-`[TOOL 1]` `[TOOL 2]` `[TOOL 3]`
+`AEF Embeddings` `Google Earth Engine`
 
-[View Project →](sample-project.md){ .md-button }
+[View Project →](satellite-embedding-project.md){ .md-button }
 </div>
 
-<div class="project-card" markdown>
-![](../assets/images/placeholder-notebook.png)
-
-**[Sample Notebook](sample-notebook.ipynb)**
-
-[YOUR PROJECT DESCRIPTION — one or two sentences: what you did, what data you used,
-and what you found or built.]
-
-`Python` `pandas` `Folium`
-
-[View Project →](sample-notebook.ipynb){ .md-button }
-</div>
 
 </div>
