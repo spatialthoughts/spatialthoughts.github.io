@@ -31,9 +31,9 @@ A set of 5 tutorials developed in collaboration with the Google DeepMind team fo
 
 **[Route Optimization using OpenRouteService](route-optimization-project.ipynb)**
 
-This was a personal project to explore the OpenRouteService Optimization API to find the optimal route between a set of locations.
+This was a personal project to explore the OpenRouteService (ORS) Optimization API to find the optimal route between a set of locations. It uses GeoPy to geocode addresses and then uses the ORS APIs to find the driving route that covers all the locations in the optimal order.
 
-`Python` `OpenRouteService API` `Folium`
+`Python` `OpenRouteService API` `Folium` `GeoPy`
 
 [View Project →](route-optimization-project.ipynb){ .md-button }
 </div>
