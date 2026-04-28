@@ -27,16 +27,15 @@ A set of 5 tutorials developed in collaboration with the Google DeepMind team fo
 
 
 <div class="project-card" markdown>
-![](../assets/images/placeholder-notebook.png)
+![](../assets/images/project2-cover.png)
 
-**[Sample Notebook](sample-notebook.ipynb)**
+**[Route Optimization using OpenRouteService](route-optimization-project.ipynb)**
 
-[YOUR PROJECT DESCRIPTION — one or two sentences: what you did, what data you used,
-and what you found or built.]
+This was a personal project to explore the OpenRouteService Optimization API to find the optimal route between a set of locations.
 
-`Python` `pandas` `Folium`
+`Python` `OpenRouteService API` `Folium`
 
-[View Project →](sample-notebook.ipynb){ .md-button }
+[View Project →](route-optimization-project.ipynb){ .md-button }
 </div>
 
 </div>
