@@ -1,14 +1,10 @@
-<!--
-CHECKLIST FOR THIS PAGE:
-- [ ] Replace each [YOUR ...] placeholder with your actual information
-- [ ] Add or remove job entries as needed (copy the format of an existing entry)
-- [ ] Add or remove education entries
-- [ ] Add or remove certifications
--->
-
 # Experience & Education
 
 ## Work Experience
+
+<div class="timeline" markdown>
+
+<div class="timeline-entry" markdown>
 
 ### Founder — Spatial Thoughts
 
@@ -19,7 +15,9 @@ CHECKLIST FOR THIS PAGE:
 * Offer cohort-based online instructor-led courses attended by participants from 100+ countries.
 * Corporate clients include Google Inc, Boston Consulting Group (BCG), World Resources Institute (WRI), and Environmental Defense Fund (EDF).
 
----
+</div>
+
+<div class="timeline-entry" markdown>
 
 ### Staff Geo Data Strategist — Google
 
@@ -30,7 +28,9 @@ CHECKLIST FOR THIS PAGE:
 * Mentored researchers on programming techniques for large-scale datasets in Ecology/Conservation and Water Resources.
 * Represented Google India in a capacity-building collaboration with the Ministry of Water Resources, River Development and Ganga Rejuvenation, Government of India.
 
----
+</div>
+
+<div class="timeline-entry" markdown>
 
 ### Senior Geo Data Strategist — Google
 
@@ -41,7 +41,9 @@ CHECKLIST FOR THIS PAGE:
 * Key role in setting up and scaling a 25-member 3D modeling team in Hyderabad.
 * Wrote a scalable QA system for large volumes of satellite imagery.
 
----
+</div>
+
+<div class="timeline-entry" markdown>
 
 ### Senior GIS Specialist — Google
 
@@ -50,7 +52,9 @@ CHECKLIST FOR THIS PAGE:
 * Expanded core imagery and vendor teams for large-scale imagery operations.
 * Built the GIS team in India, including hiring, onboarding, and running pilot projects.
 
----
+</div>
+
+<div class="timeline-entry" markdown>
 
 ### Technical Account Manager — Google
 
@@ -58,7 +62,9 @@ CHECKLIST FOR THIS PAGE:
 
 * Piloted various outsourcing projects with a small team of contractors.
 
----
+</div>
+
+<div class="timeline-entry" markdown>
 
 ### Google Earth Enterprise System Engineer — ABE Services (on contract at Google Inc)
 
@@ -67,7 +73,9 @@ CHECKLIST FOR THIS PAGE:
 * Sales engineer for Google Earth Enterprise products.
 * Carried out two on-site deployments of Google Earth Enterprise Server.
 
----
+</div>
+
+<div class="timeline-entry" markdown>
 
 ### Road Crew — Mandli Communications
 
@@ -76,7 +84,9 @@ CHECKLIST FOR THIS PAGE:
 * Mapped the state of Florida with high-accuracy GPS and photo logs.
 * Collected photo-logs, video-logs, and sub-meter GPS data across 5,000+ miles of state and interstate routes.
 
----
+</div>
+
+<div class="timeline-entry" markdown>
 
 ### GIS Analyst — Upper Midwest Freight Coalition
 
@@ -85,13 +95,19 @@ CHECKLIST FOR THIS PAGE:
 * Directed research on increasing cooperation among transportation agencies in the Midwest.
 * Provided GIS support to 20 researchers from 3 universities; presented findings to state governments and research organizations.
 
----
+</div>
+
+<div class="timeline-entry" markdown>
 
 ### Summer Intern — Indian Institute of Remote Sensing
 
 *May 2002 – July 2002 | Dehradun, India*
 
 * Part of a 9-student team developing a multimedia Remote Sensing tutorial for instructional use at India's premier remote sensing facility.
+
+</div>
+
+</div>
 
 ---
 

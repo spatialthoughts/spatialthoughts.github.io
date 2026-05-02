@@ -55,6 +55,17 @@ markdown_extensions:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
+copyright: "Copyright &copy; Ujaval Gandhi"
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/spatialthoughts
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/spatialthoughts
+    - icon: material/email
+      link: mailto:ujaval@spatialthoughts.com
+
 plugins:
   - search
   - meta
