@@ -1,3 +1,7 @@
+---
+hide:
+  - toc
+---
 # Experience & Education
 
 ## Work Experience
