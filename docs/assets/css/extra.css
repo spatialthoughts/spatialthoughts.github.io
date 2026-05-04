@@ -9,14 +9,27 @@
 }
 
 /* Hero section on the Home page */
+
 .hero {
   text-align: center;
   padding: 1rem 1rem 1.25rem 1rem;
-  background:
-    linear-gradient(135deg, rgba(232,244,248,0.82) 0%, rgba(240,247,255,0.82) 50%, rgba(232,240,254,0.82) 100%),
-    url('../images/hero-image.png') center / cover no-repeat;
+  background: linear-gradient(135deg, #e8f4f8 0%, #f0f7ff 50%, #e8f0fe 100%);
   border-radius: 8px;
 }
+
+/* Hero section on the Home page with Cover Image */
+
+/* .hero {
+  text-align: center;
+  padding: 1rem 1rem 1.25rem 1rem;
+  background:
+    linear-gradient(135deg, 
+      rgba(232,244,248,0.82) 0%,
+      rgba(240,247,255,0.82) 50%,
+      rgba(232,240,254,0.82) 100%),
+    url('../images/hero-image.png') center / cover no-repeat;
+  border-radius: 8px;
+} */
 
 .hero h1 {
   margin-top: 0.25rem;
