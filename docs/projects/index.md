@@ -42,4 +42,17 @@ This was a personal project to explore the OpenRouteService (ORS) Optimization A
 [View Project →](route-optimization-project.ipynb){ .md-button }
 </div>
 
+
+<div class="project-card" markdown>
+![](../assets/images/project3-image.png)
+
+**[Climate Trends for the Baltics](climate-trends-project.md)**
+
+Analysis of long-term climate trends across Estonia, Latvia, and Lithuania using the TerraClimate dataset (1958–2023). Quantifies multi-decadal trends in temperature, precipitation, evapotranspiration, and soil moisture, with spatial trend maps.
+
+`Python` `XArray` `TerraClimate` `Dask` `rioxarray`
+
+[View Project →](climate-trends-project.md){ .md-button }
+</div>
+
 </div>
